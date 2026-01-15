@@ -67,7 +67,7 @@ Open http://localhost:5002
 
 It should look something like:
 
-
+![screenshot example of UI](ui-example.png?raw=true "UI Example")
 
 ### 5. Use with Claude Code
 
